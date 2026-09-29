@@ -1,4 +1,4 @@
-package algaworks.ems.desafio.restclient.moderation_service;
+package algaworks.ems.desafio.restclient.moderation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

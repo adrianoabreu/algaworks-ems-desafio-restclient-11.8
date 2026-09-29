@@ -1,4 +1,4 @@
-package algaworks.ems.desafio.restclient.moderation_service;
+package algaworks.ems.desafio.restclient.moderation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
